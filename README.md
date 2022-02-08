@@ -11,4 +11,6 @@ If it did not, or you removed it, here is your import URL:
 
 ## How can I add my theme?
 
-TBD.
+Join our Discord and ask in #cumsock-requests!
+
+MAKE SURE TO READ PINS
