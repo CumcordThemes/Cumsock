@@ -5,6 +5,7 @@
     "author": "CumcordThemes Team"
   },
   "themes" : [
-    "https://raw.githubusercontent.com/yellowsink/Diskai/dist/diskai.theme.css"
+    "https://raw.githubusercontent.com/yellowsink/Diskai/dist/diskai.theme.css",
+    "https://raw.githubusercontent.com/hyblocker/pixelcord/main/Pixelcord.theme.css"
   ]
 }
