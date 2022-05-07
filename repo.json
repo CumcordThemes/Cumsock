@@ -7,6 +7,7 @@
   "themes" : [
     "https://raw.githubusercontent.com/yellowsink/Diskai/dist/diskai.theme.css",
     "https://raw.githubusercontent.com/hyblocker/pixelcord/main/Pixelcord.theme.css",
-    "https://bulldog3321.github.io/Bulldogs-Theme/main.css"
+    "https://bulldog3321.github.io/Bulldogs-Theme/main.css",
+    "https://raw.githubusercontent.com/PhoenixAceVFX/Phoenix-Vizan/main/main.css"
   ]
 }
